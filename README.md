@@ -19,6 +19,7 @@
 
 # Database Schema
 1NF
+
 Removal of repeating groups
 Menu Entity
 Menu_ID (PK): INTEGER
