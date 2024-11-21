@@ -82,6 +82,7 @@ Employee_ID (PK): INTEGER
 Employee_Name: VARCHAR(100)
 Position_ID: INTEGER
 Hire_Date: TIMESTAMP
+
 2NF
 Remove partial dependencies
 
