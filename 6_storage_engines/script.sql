@@ -1,1 +1,2 @@
 -- Write your SQL code here
+-- All the tables use InnoDB except Delivery table which uses the MyISAM storage engine (shown when declaring the tables)
